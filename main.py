@@ -18,7 +18,7 @@ def tea(m):
             elif lvl=="7r" or lvl=="8j" or lvl=="9r" or lvl=="10t" or lvl=="12n":
                 display(f'You are in Red Bulldogs', target='out')
             elif lvl=="7t" or lvl=="8s" or lvl=="9t" or lvl=="10e" or lvl=="11a":
-                display(f'You are in Green Hornets', target='out')
+                display(f'You are in Yellow Tigers', target='out')
             else:
                 display(f'your class isnt listed yet', target='out')
         elif medno == no:
